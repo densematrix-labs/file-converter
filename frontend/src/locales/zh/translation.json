@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "免费图片转换器"
+  },
+  "nav": {
+    "converter": "转换器",
+    "pricing": "专业版"
+  },
+  "hero": {
+    "badge": "CloudConvert 替代品 • 完全免费",
+    "title": "即时转换",
+    "titleHighlight": "图片格式",
+    "subtitle": "转换 PNG、JPG、WEBP、GIF 等格式 — 完全在浏览器中完成。无需上传，无需注册，无水印。"
+  },
+  "dropzone": {
+    "dragDrop": "拖放图片到这里",
+    "or": "或",
+    "browse": "浏览文件",
+    "dropHere": "放开以添加文件！"
+  },
+  "fileList": {
+    "files": "文件",
+    "pending": "等待中",
+    "download": "下载",
+    "remove": "移除"
+  },
+  "settings": {
+    "title": "转换设置",
+    "outputFormat": "输出格式",
+    "quality": "质量",
+    "width": "宽度",
+    "height": "高度",
+    "original": "原始",
+    "maintainAspectRatio": "保持宽高比",
+    "convert": "全部转换",
+    "converting": "转换中...",
+    "downloadAll": "全部下载",
+    "clear": "清空"
+  },
+  "footer": {
+    "privacy": "100% 隐私保护",
+    "privacyDesc": "文件永不离开浏览器，零服务器上传。",
+    "fast": "闪电般快速",
+    "fastDesc": "使用浏览器技术即时转换。",
+    "free": "完全免费",
+    "freeDesc": "无限制，无积分，无隐藏费用。",
+    "privacyPolicy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "seo": {
+    "whyTitle": "为什么选择 FileConvert？",
+    "privacy": {
+      "title": "隐私优先",
+      "desc": "与 CloudConvert 和其他在线转换器不同，您的文件完全在浏览器中处理，不会上传到任何服务器。"
+    },
+    "speed": {
+      "title": "即时转换",
+      "desc": "无需排队等待，无需服务器处理。点击按钮即刻完成转换。"
+    },
+    "free": {
+      "title": "永久免费",
+      "desc": "没有积分系统，没有订阅，没有隐藏费用。随时随地转换任意数量的图片。"
+    },
+    "formats": {
+      "title": "支持所有流行格式",
+      "desc": "支持 PNG、JPG、WEBP、GIF、BMP 等格式。适合网页优化、社交媒体和设计工作。"
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "功能",
+    "price": "价格",
+    "free": "免费",
+    "creditBased": "按积分计费",
+    "upload": "文件上传",
+    "noUpload": "仅本地",
+    "serverUpload": "上传到服务器",
+    "account": "需要账号",
+    "noAccount": "否",
+    "required": "是（高级功能需要）",
+    "watermark": "水印",
+    "noWatermark": "无"
+  },
+  "pricing": {
+    "title": "升级专业版",
+    "subtitle": "支持开发并解锁高级功能",
+    "free": {
+      "title": "免费版",
+      "price": "¥0",
+      "features": [
+        "无限图片转换",
+        "所有格式（PNG、JPG、WEBP、GIF、BMP）",
+        "批量转换",
+        "质量和尺寸调整"
+      ],
+      "cta": "当前方案"
+    },
+    "pro": {
+      "title": "专业版",
+      "price": "¥35",
+      "period": "一次性付款",
+      "features": [
+        "免费版所有功能",
+        "优先支持",
+        "支持开发",
+        "新功能抢先体验"
+      ],
+      "cta": "获取专业版"
+    }
+  }
+}

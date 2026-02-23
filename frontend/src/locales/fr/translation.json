@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "Convertisseur d'images gratuit"
+  },
+  "nav": {
+    "converter": "Convertisseur",
+    "pricing": "Pro"
+  },
+  "hero": {
+    "badge": "Alternative à CloudConvert • 100% Gratuit",
+    "title": "Convertir des images",
+    "titleHighlight": "Instantanément",
+    "subtitle": "Convertissez PNG, JPG, WEBP, GIF et plus — directement dans votre navigateur. Pas de téléchargement, pas d'inscription, pas de filigrane."
+  },
+  "dropzone": {
+    "dragDrop": "Glissez-déposez des images ici",
+    "or": "ou",
+    "browse": "parcourir les fichiers",
+    "dropHere": "Déposez les fichiers ici !"
+  },
+  "fileList": {
+    "files": "Fichiers",
+    "pending": "En attente",
+    "download": "Télécharger",
+    "remove": "Supprimer"
+  },
+  "settings": {
+    "title": "Paramètres de conversion",
+    "outputFormat": "Format de sortie",
+    "quality": "Qualité",
+    "width": "Largeur",
+    "height": "Hauteur",
+    "original": "Original",
+    "maintainAspectRatio": "Conserver le ratio",
+    "convert": "Tout convertir",
+    "converting": "Conversion...",
+    "downloadAll": "Tout télécharger",
+    "clear": "Tout effacer"
+  },
+  "footer": {
+    "privacy": "100% Privé",
+    "privacyDesc": "Vos fichiers ne quittent jamais votre navigateur. Zéro téléchargement serveur.",
+    "fast": "Ultra rapide",
+    "fastDesc": "Conversion instantanée grâce à la technologie du navigateur.",
+    "free": "Entièrement gratuit",
+    "freeDesc": "Sans limites, sans crédits, sans frais cachés.",
+    "privacyPolicy": "Politique de confidentialité",
+    "terms": "Conditions"
+  },
+  "seo": {
+    "whyTitle": "Pourquoi choisir FileConvert ?",
+    "privacy": {
+      "title": "Confidentialité d'abord",
+      "desc": "Contrairement à CloudConvert, vos fichiers sont traités entièrement dans votre navigateur. Rien n'est téléchargé sur aucun serveur."
+    },
+    "speed": {
+      "title": "Conversion instantanée",
+      "desc": "Pas d'attente en file. Pas de temps de traitement serveur. Vos fichiers sont convertis dès que vous cliquez."
+    },
+    "free": {
+      "title": "100% Gratuit pour toujours",
+      "desc": "Pas de système de crédits, pas d'abonnements, pas de frais cachés. Convertissez autant d'images que vous voulez."
+    },
+    "formats": {
+      "title": "Tous les formats populaires",
+      "desc": "Support pour PNG, JPG, WEBP, GIF, BMP et plus. Parfait pour l'optimisation web, les réseaux sociaux et le design."
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "Fonctionnalité",
+    "price": "Prix",
+    "free": "Gratuit",
+    "creditBased": "Basé sur crédits",
+    "upload": "Téléchargement",
+    "noUpload": "Local uniquement",
+    "serverUpload": "Téléchargement serveur",
+    "account": "Compte requis",
+    "noAccount": "Non",
+    "required": "Oui (pour plus de fonctions)",
+    "watermark": "Filigrane",
+    "noWatermark": "Non"
+  },
+  "pricing": {
+    "title": "Passer à Pro",
+    "subtitle": "Soutenez le développement et débloquez des fonctionnalités avancées",
+    "free": {
+      "title": "Gratuit",
+      "price": "0€",
+      "features": [
+        "Conversions d'images illimitées",
+        "Tous les formats (PNG, JPG, WEBP, GIF, BMP)",
+        "Conversion par lots",
+        "Options de qualité et redimensionnement"
+      ],
+      "cta": "Plan actuel"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "5€",
+      "period": "unique",
+      "features": [
+        "Tout de Gratuit",
+        "Support prioritaire",
+        "Soutenir le développement",
+        "Accès anticipé aux nouvelles fonctions"
+      ],
+      "cta": "Obtenir Pro"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "無料画像変換ツール"
+  },
+  "nav": {
+    "converter": "変換",
+    "pricing": "プロ版"
+  },
+  "hero": {
+    "badge": "CloudConvert の代替 • 完全無料",
+    "title": "画像を",
+    "titleHighlight": "即座に変換",
+    "subtitle": "PNG、JPG、WEBP、GIF などをブラウザで直接変換。アップロード不要、登録不要、透かしなし。"
+  },
+  "dropzone": {
+    "dragDrop": "画像をここにドラッグ＆ドロップ",
+    "or": "または",
+    "browse": "ファイルを選択",
+    "dropHere": "ここにドロップ！"
+  },
+  "fileList": {
+    "files": "ファイル",
+    "pending": "待機中",
+    "download": "ダウンロード",
+    "remove": "削除"
+  },
+  "settings": {
+    "title": "変換設定",
+    "outputFormat": "出力形式",
+    "quality": "品質",
+    "width": "幅",
+    "height": "高さ",
+    "original": "オリジナル",
+    "maintainAspectRatio": "アスペクト比を維持",
+    "convert": "すべて変換",
+    "converting": "変換中...",
+    "downloadAll": "すべてダウンロード",
+    "clear": "クリア"
+  },
+  "footer": {
+    "privacy": "100% プライベート",
+    "privacyDesc": "ファイルはブラウザから出ません。サーバーへのアップロードゼロ。",
+    "fast": "超高速",
+    "fastDesc": "ブラウザ技術を使用した即時変換。",
+    "free": "完全無料",
+    "freeDesc": "制限なし、クレジットなし、隠れた料金なし。",
+    "privacyPolicy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "seo": {
+    "whyTitle": "なぜ FileConvert を選ぶのか？",
+    "privacy": {
+      "title": "プライバシー優先",
+      "desc": "CloudConvert や他のオンライン変換ツールとは異なり、ファイルは完全にブラウザ内で処理されます。"
+    },
+    "speed": {
+      "title": "即時変換",
+      "desc": "キューで待つ必要なし。サーバー処理時間なし。ボタンをクリックした瞬間に変換完了。"
+    },
+    "free": {
+      "title": "永久無料",
+      "desc": "クレジットシステムなし、サブスクリプションなし、隠れた料金なし。いつでも好きなだけ画像を変換。"
+    },
+    "formats": {
+      "title": "人気のすべての形式に対応",
+      "desc": "PNG、JPG、WEBP、GIF、BMP などに対応。Web最適化、SNS、デザイン作業に最適。"
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "機能",
+    "price": "価格",
+    "free": "無料",
+    "creditBased": "クレジット制",
+    "upload": "ファイルアップロード",
+    "noUpload": "ローカルのみ",
+    "serverUpload": "サーバーアップロード",
+    "account": "アカウント必要",
+    "noAccount": "いいえ",
+    "required": "はい（高度な機能には必要）",
+    "watermark": "透かし",
+    "noWatermark": "なし"
+  },
+  "pricing": {
+    "title": "プロ版にアップグレード",
+    "subtitle": "開発をサポートし、高度な機能をアンロック",
+    "free": {
+      "title": "無料",
+      "price": "¥0",
+      "features": [
+        "無制限の画像変換",
+        "すべての形式（PNG、JPG、WEBP、GIF、BMP）",
+        "一括変換",
+        "品質とリサイズオプション"
+      ],
+      "cta": "現在のプラン"
+    },
+    "pro": {
+      "title": "プロ",
+      "price": "¥700",
+      "period": "一回払い",
+      "features": [
+        "無料版のすべて",
+        "優先サポート",
+        "開発をサポート",
+        "新機能への早期アクセス"
+      ],
+      "cta": "プロ版を取得"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "Kostenloser Bildkonverter"
+  },
+  "nav": {
+    "converter": "Konverter",
+    "pricing": "Pro"
+  },
+  "hero": {
+    "badge": "CloudConvert Alternative • 100% Kostenlos",
+    "title": "Bilder",
+    "titleHighlight": "Sofort Konvertieren",
+    "subtitle": "Konvertieren Sie PNG, JPG, WEBP, GIF und mehr — direkt im Browser. Kein Upload, keine Anmeldung, kein Wasserzeichen."
+  },
+  "dropzone": {
+    "dragDrop": "Bilder hierher ziehen",
+    "or": "oder",
+    "browse": "Dateien durchsuchen",
+    "dropHere": "Dateien hier ablegen!"
+  },
+  "fileList": {
+    "files": "Dateien",
+    "pending": "Ausstehend",
+    "download": "Herunterladen",
+    "remove": "Entfernen"
+  },
+  "settings": {
+    "title": "Konvertierungseinstellungen",
+    "outputFormat": "Ausgabeformat",
+    "quality": "Qualität",
+    "width": "Breite",
+    "height": "Höhe",
+    "original": "Original",
+    "maintainAspectRatio": "Seitenverhältnis beibehalten",
+    "convert": "Alle konvertieren",
+    "converting": "Konvertiere...",
+    "downloadAll": "Alle herunterladen",
+    "clear": "Alle löschen"
+  },
+  "footer": {
+    "privacy": "100% Privat",
+    "privacyDesc": "Ihre Dateien verlassen nie Ihren Browser. Kein Server-Upload.",
+    "fast": "Blitzschnell",
+    "fastDesc": "Sofortige Konvertierung mit Browser-Technologie.",
+    "free": "Komplett Kostenlos",
+    "freeDesc": "Keine Limits, keine Credits, keine versteckten Gebühren.",
+    "privacyPolicy": "Datenschutz",
+    "terms": "AGB"
+  },
+  "seo": {
+    "whyTitle": "Warum FileConvert wählen?",
+    "privacy": {
+      "title": "Datenschutz zuerst",
+      "desc": "Anders als CloudConvert werden Ihre Dateien vollständig in Ihrem Browser verarbeitet. Nichts wird auf Server hochgeladen."
+    },
+    "speed": {
+      "title": "Sofortige Konvertierung",
+      "desc": "Kein Warten in der Warteschlange. Keine Server-Verarbeitungszeit. Konvertierung erfolgt sofort beim Klicken."
+    },
+    "free": {
+      "title": "100% Kostenlos für immer",
+      "desc": "Kein Creditsystem, keine Abonnements, keine versteckten Gebühren. Konvertieren Sie so viele Bilder wie Sie möchten."
+    },
+    "formats": {
+      "title": "Alle gängigen Formate",
+      "desc": "Unterstützung für PNG, JPG, WEBP, GIF, BMP und mehr. Perfekt für Web-Optimierung, Social Media und Designarbeit."
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "Funktion",
+    "price": "Preis",
+    "free": "Kostenlos",
+    "creditBased": "Credit-basiert",
+    "upload": "Datei-Upload",
+    "noUpload": "Nur lokal",
+    "serverUpload": "Server-Upload",
+    "account": "Konto erforderlich",
+    "noAccount": "Nein",
+    "required": "Ja (für mehr Funktionen)",
+    "watermark": "Wasserzeichen",
+    "noWatermark": "Nein"
+  },
+  "pricing": {
+    "title": "Auf Pro upgraden",
+    "subtitle": "Unterstützen Sie die Entwicklung und schalten Sie erweiterte Funktionen frei",
+    "free": {
+      "title": "Kostenlos",
+      "price": "0€",
+      "features": [
+        "Unbegrenzte Bildkonvertierungen",
+        "Alle Formate (PNG, JPG, WEBP, GIF, BMP)",
+        "Stapelkonvertierung",
+        "Qualitäts- und Größenoptionen"
+      ],
+      "cta": "Aktueller Plan"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "5€",
+      "period": "einmalig",
+      "features": [
+        "Alles in Kostenlos",
+        "Prioritäts-Support",
+        "Entwicklung unterstützen",
+        "Früher Zugang zu neuen Funktionen"
+      ],
+      "cta": "Pro holen"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "무료 이미지 변환기"
+  },
+  "nav": {
+    "converter": "변환기",
+    "pricing": "프로"
+  },
+  "hero": {
+    "badge": "CloudConvert 대안 • 100% 무료",
+    "title": "이미지를",
+    "titleHighlight": "즉시 변환",
+    "subtitle": "PNG, JPG, WEBP, GIF 등을 브라우저에서 바로 변환하세요. 업로드 없음, 가입 없음, 워터마크 없음."
+  },
+  "dropzone": {
+    "dragDrop": "이미지를 여기에 드래그 앤 드롭",
+    "or": "또는",
+    "browse": "파일 찾아보기",
+    "dropHere": "여기에 놓으세요!"
+  },
+  "fileList": {
+    "files": "파일",
+    "pending": "대기 중",
+    "download": "다운로드",
+    "remove": "제거"
+  },
+  "settings": {
+    "title": "변환 설정",
+    "outputFormat": "출력 형식",
+    "quality": "품질",
+    "width": "너비",
+    "height": "높이",
+    "original": "원본",
+    "maintainAspectRatio": "비율 유지",
+    "convert": "모두 변환",
+    "converting": "변환 중...",
+    "downloadAll": "모두 다운로드",
+    "clear": "모두 지우기"
+  },
+  "footer": {
+    "privacy": "100% 프라이버시",
+    "privacyDesc": "파일이 브라우저를 떠나지 않습니다. 서버 업로드 없음.",
+    "fast": "초고속",
+    "fastDesc": "브라우저 기술을 사용한 즉시 변환.",
+    "free": "완전 무료",
+    "freeDesc": "제한 없음, 크레딧 없음, 숨겨진 비용 없음.",
+    "privacyPolicy": "개인정보 보호정책",
+    "terms": "이용약관"
+  },
+  "seo": {
+    "whyTitle": "왜 FileConvert를 선택해야 할까요?",
+    "privacy": {
+      "title": "프라이버시 우선",
+      "desc": "CloudConvert와 달리, 파일은 완전히 브라우저에서 처리됩니다. 서버에 아무것도 업로드되지 않습니다."
+    },
+    "speed": {
+      "title": "즉시 변환",
+      "desc": "대기열에서 기다릴 필요 없음. 서버 처리 시간 없음. 버튼 클릭 즉시 변환 완료."
+    },
+    "free": {
+      "title": "영원히 100% 무료",
+      "desc": "크레딧 시스템 없음, 구독 없음, 숨겨진 비용 없음. 원하는 만큼 이미지를 변환하세요."
+    },
+    "formats": {
+      "title": "모든 인기 형식 지원",
+      "desc": "PNG, JPG, WEBP, GIF, BMP 등 지원. 웹 최적화, 소셜 미디어, 디자인 작업에 완벽."
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "기능",
+    "price": "가격",
+    "free": "무료",
+    "creditBased": "크레딧 기반",
+    "upload": "파일 업로드",
+    "noUpload": "로컬만",
+    "serverUpload": "서버 업로드",
+    "account": "계정 필요",
+    "noAccount": "아니오",
+    "required": "예 (추가 기능에 필요)",
+    "watermark": "워터마크",
+    "noWatermark": "없음"
+  },
+  "pricing": {
+    "title": "프로로 업그레이드",
+    "subtitle": "개발을 지원하고 고급 기능을 잠금 해제하세요",
+    "free": {
+      "title": "무료",
+      "price": "₩0",
+      "features": [
+        "무제한 이미지 변환",
+        "모든 형식 (PNG, JPG, WEBP, GIF, BMP)",
+        "일괄 변환",
+        "품질 및 크기 조정 옵션"
+      ],
+      "cta": "현재 플랜"
+    },
+    "pro": {
+      "title": "프로",
+      "price": "₩7,000",
+      "period": "일회성",
+      "features": [
+        "무료 플랜의 모든 것",
+        "우선 지원",
+        "개발 지원",
+        "새 기능 조기 액세스"
+      ],
+      "cta": "프로 받기"
+    }
+  }
+}

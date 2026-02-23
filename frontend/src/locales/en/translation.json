@@ -1,0 +1,111 @@
+{
+  "header": {
+    "tagline": "Free Image Converter"
+  },
+  "nav": {
+    "converter": "Converter",
+    "pricing": "Pro"
+  },
+  "hero": {
+    "badge": "CloudConvert Alternative • 100% Free",
+    "title": "Convert Images",
+    "titleHighlight": "Instantly",
+    "subtitle": "Convert PNG, JPG, WEBP, GIF and more — directly in your browser. No upload, no signup, no watermark."
+  },
+  "dropzone": {
+    "dragDrop": "Drag & drop images here",
+    "or": "or",
+    "browse": "browse files",
+    "dropHere": "Drop files here!"
+  },
+  "fileList": {
+    "files": "Files",
+    "pending": "Pending",
+    "download": "Download",
+    "remove": "Remove"
+  },
+  "settings": {
+    "title": "Conversion Settings",
+    "outputFormat": "Output Format",
+    "quality": "Quality",
+    "width": "Width",
+    "height": "Height",
+    "original": "Original",
+    "maintainAspectRatio": "Maintain aspect ratio",
+    "convert": "Convert All",
+    "converting": "Converting...",
+    "downloadAll": "Download All",
+    "clear": "Clear All"
+  },
+  "footer": {
+    "privacy": "100% Private",
+    "privacyDesc": "Your files never leave your browser. Zero server uploads.",
+    "fast": "Lightning Fast",
+    "fastDesc": "Instant conversion using browser technology.",
+    "free": "Completely Free",
+    "freeDesc": "No limits, no credits, no hidden fees.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms"
+  },
+  "seo": {
+    "whyTitle": "Why Choose FileConvert?",
+    "privacy": {
+      "title": "Privacy First",
+      "desc": "Unlike CloudConvert and other online converters, your files are processed entirely in your browser. Nothing is uploaded to any server."
+    },
+    "speed": {
+      "title": "Instant Conversion",
+      "desc": "No waiting in queue. No server processing time. Your files are converted the moment you click the button."
+    },
+    "free": {
+      "title": "100% Free Forever",
+      "desc": "No credit system, no subscriptions, no hidden fees. Convert as many images as you want, whenever you want."
+    },
+    "formats": {
+      "title": "All Popular Formats",
+      "desc": "Support for PNG, JPG, WEBP, GIF, BMP and more. Perfect for web optimization, social media, and design work."
+    }
+  },
+  "comparison": {
+    "title": "FileConvert vs CloudConvert",
+    "feature": "Feature",
+    "price": "Price",
+    "free": "Free",
+    "creditBased": "Credit-based",
+    "upload": "File Upload",
+    "noUpload": "Local only",
+    "serverUpload": "Server upload",
+    "account": "Account Required",
+    "noAccount": "No",
+    "required": "Yes (for more features)",
+    "watermark": "Watermark",
+    "noWatermark": "No"
+  },
+  "pricing": {
+    "title": "Go Pro",
+    "subtitle": "Support development and unlock advanced features",
+    "free": {
+      "title": "Free",
+      "price": "$0",
+      "features": [
+        "Unlimited image conversions",
+        "All formats (PNG, JPG, WEBP, GIF, BMP)",
+        "Batch conversion",
+        "Quality & resize options"
+      ],
+      "cta": "Current Plan"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$5",
+      "period": "one-time",
+      "features": [
+        "Everything in Free",
+        "Priority support",
+        "Support development",
+        "Early access to new features"
+      ],
+      "cta": "Get Pro"
+    }
+  }
+}
