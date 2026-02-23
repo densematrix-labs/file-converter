@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { DropZone } from '../components/DropZone';
 import { FileList } from '../components/FileList';
 import { ConversionSettings } from '../components/ConversionSettings';
-import { ArrowRight, FileImage, Sparkles } from 'lucide-react';
+import { ArrowRight, Sparkles } from 'lucide-react';
 
 export function HomePage() {
   const { t } = useTranslation();

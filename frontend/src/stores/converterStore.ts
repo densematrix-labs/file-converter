@@ -1,6 +1,6 @@
 import { create } from 'zustand';
 import type { ImageFormat, ConversionResult, ConversionOptions } from '../lib/converter';
-import { convertImage, batchConvert, downloadFile, downloadAsZip, getSupportedOutputFormats } from '../lib/converter';
+import { convertImage, downloadFile, downloadAsZip, getSupportedOutputFormats } from '../lib/converter';
 
 export interface FileItem {
   id: string;
